@@ -1,1 +1,4 @@
-repository for study purposes only
+Objects of study:
+- Express
+- Package express-async-errors
+- Mongoose
